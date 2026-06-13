@@ -37,7 +37,7 @@ main {
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
 
-    transition: width 0.4s, heigth 0.4s;
+    transition: width 0.6s, heigth 0.6s;
     transition-timing-function: ease;
 }
 
@@ -52,4 +52,13 @@ section#login > div#imagem {
 section#login > div#formulario {
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p {
+    font-size: 0.8em;
 }
