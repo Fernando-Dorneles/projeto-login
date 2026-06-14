@@ -63,6 +63,14 @@ div#formulario > p {
     font-size: 0.8em;
 }
 
+div.campo > label {
+    display: none;
+}
+
+div.campo > i {
+    color: white;
+}
+
 
 form > div.campo {
     background-color: #5F2C82;
