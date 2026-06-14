@@ -14,7 +14,7 @@
 }
 
 body, html {
-    background-color: #5F2C82 ;
+    background-color: #4a276c ;
     height: 100vh;
     width: 100vw;
 }
@@ -69,6 +69,7 @@ div.campo > label {
 
 div.campo > i {
     color: white;
+    
 }
 
 
@@ -113,6 +114,5 @@ form > a.botao {
 }
 
 form > a.botao:hover {
-    background-color: #6cd3cf;
+    background-color: #219892;
 }
-
